@@ -1,4 +1,4 @@
-# Access Termux Remotly
+# Access Termux Remotely
 	
 ## Setup remote SSH connection to Termux from anywhere using TailScale
 	
@@ -13,3 +13,5 @@
 	passwd
 	```
 *	Install TailScale to another device that will be used to connect to Termux SSH and login with same account.
+
+*	Use your prefered SSH client and connect to Termux SSH. Use TailScale assigned IP address for connection and port number `8022`
