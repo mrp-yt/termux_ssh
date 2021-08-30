@@ -1,6 +1,6 @@
-### Access Termux Remotly
+# Access Termux Remotly
 	
-# Setup remote SSH connection to Termux from anywhere using TailScale
+## Setup remote SSH connection to Termux from anywhere using TailScale
 	
 *	Install Tailscale on your android device
 
@@ -12,3 +12,4 @@
 	```
 	passwd
 	```
+*	Install TailScale to another device that will be used to connect to Termux SSH and login with same account.
